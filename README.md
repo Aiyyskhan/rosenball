@@ -17,4 +17,4 @@ The program consists of the following parts:
 ## How to run
 Download the project. In terminal, type:
 
-   `python game.py`
+   `$ python game.py`
